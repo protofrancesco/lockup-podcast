@@ -1,5 +1,5 @@
 baseURL = "https://lock-up.it"
-title = "LockUp podcast"
+title = "LockUp"
 theme = "etch"
 languageCode = "it-IT"
 enableInlineShortcodes = true
