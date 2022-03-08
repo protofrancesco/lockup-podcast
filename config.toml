@@ -1,0 +1,38 @@
+baseURL = "https://lock-up.it"
+title = "LockUp podcast"
+theme = "etch"
+languageCode = "it-IT"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = "LockUp, un podcast sulla Formula 1"
+  copyright = "Copyright © 2022 Francesco Proto"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "episodi"
+    title = "episodi"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "info"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true
