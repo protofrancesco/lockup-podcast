@@ -1,27 +1,18 @@
-+++
-author = "protofra"
-title = "Introduzione"
-date = "2022-03-05"
-description = "LockUp, un podcast sulla Formula 1."
-tags = [
-    "Formula 1",
-]
-+++
+---
+title: Introduzione
+date: 2022-03-14
+description: 'LockUp, un podcast sulla Formula 1.'
+image: images/logo.JPG
+---
 
-# Un podcast sulla Formula 1
-## LockUp
+## **LockUp**, un podcast sulla Formula 1 nato per intervistare Fernando Alonso. 
 
+Ciao a tutti, noi siamo **[@protofra](https://www.instagram.com/protofra/)** e **[@herbertvongallo](https://www.instagram.com/herbertvongallo/)** e questo è **LockUp**: un podcast _non troppo serio_ sulla Formula 1. 
 
->**Lockup** (in italiano bloccàggio s. m. [dal fr. blocage, der. di bloquer «bloccare»; nel sign. 5, tratto direttamente da blocco1]. – 1. In meccanica, azione (e, nell’uso corrente, anche il congegno) con cui si vincola un pezzo a un altro, impedendo il moto relativo dei due; per estens., l’arresto, più o meno rapido, di un meccanismo, di una macchina: il b. dei freni.)
+Nel corso dei mesi andremo a **commentare** i Gran Premi del Campionato del Mondo di F1 2022; il tutto con pochissima conoscenza tecnica ma con tanta voglia di mettere *zizzania*.  
 
-**LockUp** è un podcast ~~non troppo serio~~ sulla Formula 1.
+Trovate **LockUp** su tutte le piattaforme streaming possibili ed immaginabili, mentre noi due - i vostri splendidi host - siamo su **Instagram**. 
 
-Commenti, _illazioni_, lamentele e livore a seguito dei Gran Premi del Mondiale di Formula 1.
+_**Lasciate 5 stelle**, ché Fernando sennò non viene a trovarci._ 
 
-Ad accompagnarmi ai microfoni, amici e appassionati con grande voglia di discutere e pochissima cognizione di causa per farlo.
-
-Trovate LockUp su Spotify, Apple Podcast, Amazon, eccetera.
-
-Bella,
-
-Fra
+Bella! 

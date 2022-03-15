@@ -1,39 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on LockUp podcast</title>
+    <title>Episodi on LockUp</title>
     <link>https://lock-up.it/posts/</link>
-    <description>Recent content in Posts on LockUp podcast</description>
+    <description>Recent content in Episodi on LockUp</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-IT</language>
-    <lastBuildDate>Sat, 05 Mar 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://lock-up.it/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
+    <language>it-it</language>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lock-up.it/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduzione</title>
-      <link>https://lock-up.it/introduzione/</link>
-      <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+      <link>https://lock-up.it/posts/introduzione/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://lock-up.it/introduzione/</guid>
-      <description>&lt;h1 id=&#34;un-podcast-sulla-formula-1&#34;&gt;Un podcast sulla Formula 1&lt;/h1&gt;
-&lt;h2 id=&#34;lockup&#34;&gt;LockUp&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Lockup&lt;/strong&gt; (in italiano bloccàggio s. m. [dal fr. blocage, der. di bloquer «bloccare»; nel sign. 5, tratto direttamente da blocco1]. – 1. In meccanica, azione (e, nell’uso corrente, anche il congegno) con cui si vincola un pezzo a un altro, impedendo il moto relativo dei due; per estens., l’arresto, più o meno rapido, di un meccanismo, di una macchina: il b. dei freni.)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;LockUp&lt;/strong&gt; è un podcast &lt;del&gt;non troppo serio&lt;/del&gt; sulla Formula 1.&lt;/p&gt;
-&lt;p&gt;Commenti, &lt;em&gt;illazioni&lt;/em&gt;, lamentele e livore a seguito dei Gran Premi del Mondiale di Formula 1.&lt;/p&gt;
-&lt;p&gt;Ad accompagnarmi ai microfoni, amici e appassionati con grande voglia di discutere e pochissima cognizione di causa per farlo.&lt;/p&gt;
-&lt;p&gt;Trovate LockUp su Spotify, Apple Podcast, Amazon, eccetera.&lt;/p&gt;
-&lt;p&gt;Bella,&lt;/p&gt;
-&lt;p&gt;Fra&lt;/p&gt;
-</description>
+      <guid>https://lock-up.it/posts/introduzione/</guid>
+      <description>LockUp, un podcast sulla Formula 1 nato per intervistare Fernando Alonso. Ciao a tutti, noi siamo @protofra e @herbertvongallo e questo è LockUp: un podcast non troppo serio sulla Formula 1.
+Nel corso dei mesi andremo a commentare i Gran Premi del Campionato del Mondo di F1 2022; il tutto con pochissima conoscenza tecnica ma con tanta voglia di mettere zizzania.
+Trovate LockUp su tutte le piattaforme streaming possibili ed immaginabili, mentre noi due - i vostri splendidi host - siamo su Instagram.</description>
     </item>
-    
-    
-    
     
   </channel>
 </rss>
